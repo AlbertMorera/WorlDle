@@ -9,7 +9,7 @@ worldle()
 ##############################################################################
 # Llibreries necessaries
 ##############################################################################
-library(tidiverse)
+library(tidyverse)
 library(sf)
 library(rnaturalearth)
 library(rvest)
